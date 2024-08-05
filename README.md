@@ -6,7 +6,7 @@ The potential applications include space satellite usage. Satellites could use o
 
 https://youtu.be/tKXTJ5RI27w?si=ngvm9tsBgrKD0PIw
 
-Our implementation was not perfect since we had some torque from the connecting wires due to which the angular momentum was continously disturbed. Floor friction also played a part
+Our implementation was not perfect since we had some torque from the connecting wires due to which the angular momentum was continously disturbed. Floor friction also played a part.
 
 https://youtu.be/_UnAryf8r5Q?si=3j51AHPl7mUOVLdg
 
